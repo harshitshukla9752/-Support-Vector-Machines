@@ -75,7 +75,7 @@ Use SVMs for linear and non-linear classification.
 1. Ensure all dependencies are installed:
 
 ```bash
-pip install pandas numpy scikit-learn matplotlib seaborn
+pip install -r requirements.txt    
 ```
 
 2. Run the script:
